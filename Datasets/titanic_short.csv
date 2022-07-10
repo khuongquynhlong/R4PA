@@ -1,0 +1,21 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,Ticket
+1,0,3,"Braund, Mr. Owen Harris",male,22,A/5 21171
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,PC 17599
+3,1,3,"Heikkinen, Miss. Laina",female,26,STON/O2. 3101282
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,113803
+5,0,3,"Allen, Mr. William Henry",male,35,373450
+6,0,3,"Moran, Mr. James",male,,330877
+7,0,1,"McCarthy, Mr. Timothy J",male,54,17463
+8,0,3,"Palsson, Master. Gosta Leonard",male,2,349909
+9,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,347742
+10,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14,237736
+11,1,3,"Sandstrom, Miss. Marguerite Rut",female,4,PP 9549
+12,1,1,"Bonnell, Miss. Elizabeth",female,58,113783
+13,0,3,"Saundercock, Mr. William Henry",male,20,A/5. 2151
+14,0,3,"Andersson, Mr. Anders Johan",male,39,347082
+15,0,3,"Vestrom, Miss. Hulda Amanda Adolfina",female,14,350406
+16,1,2,"Hewlett, Mrs. (Mary D Kingcome) ",female,55,248706
+17,0,3,"Rice, Master. Eugene",male,2,382652
+18,1,2,"Williams, Mr. Charles Eugene",male,,244373
+19,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,345763
+20,1,3,"Masselmani, Mrs. Fatima",female,,2649
